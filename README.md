@@ -136,10 +136,9 @@ As a result, task1 is clearly more valuable for detecting Twitter spam as task 1
 
 Compared with scatterplot only, with added Regression line to the Scatterplot I can find out that the number of no_follower is increasing as the number of no_tweets is growing. On the other hand, with scatterplot only, I can hardly see what would make the effect of having some values such as no_tweets. One of the biggest advantage to add Regression line I believe is that it makes the estimation procedure simple, and this linear equation is easier to understand interpretation on the graph number 2 as shown above when we compare with Scatterplot only.</br>
 
-</h2>6. Data exploration is the initial step in data analysis, where users explore a data set in an unstructured way to uncover initial patterns, characteristics, and points of interest. Except approaches mentioned in Assessment 1 and Assessment 2 (1)(2)(3)(4)(5) and characteristics observed from these approaches, what other characteristics, points of interest, or initial patterns you find from the dataset? Please describe one of your findings and give a detailed description of how you achieve it.</h2>
+<h2>6. Data exploration is the initial step in data analysis, where users explore a data set in an unstructured way to uncover initial patterns, characteristics, and points of interest. Except approaches mentioned in Assessment 1 and Assessment 2 (1)(2)(3)(4)(5) and characteristics observed from these approaches, what other characteristics, points of interest, or initial patterns you find from the dataset? Please describe one of your findings and give a detailed description of how you achieve it.</h2>
 
--	How you achieve it. And describe one of your findings</br>
-
+-	How you achieve it. And describe one of your findings
 •	In this session, I was wondering the relationship between numbers of no_follower accounts and the number of account age. </br>
 •	So, I decided to investigate the number of no follower accounts according to the number of older account age.</br>
 •	To figure it out, I command: ggplot(data = TwitterSpam, mapping = aes(x = accout_age, y = no_follower)) +  geom_line() + theme_bw()</br>
@@ -173,3 +172,5 @@ Ggolot2 mappings 31.01.2021
 https://ggplot2.tidyverse.org/reference/stat_sf_coordinates.html?q=mapping#arguments
 
 Machine Learning For Hackers by Drew Conway & John Myles White
+
+Contributed by Kian (Duyoung Jang)
