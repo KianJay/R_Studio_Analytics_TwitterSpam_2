@@ -6,7 +6,7 @@ R_Studio_Analytics_TwitterSpam_2</br>
 
 In this assessment, I will apply the data analytics and visualization skills to further analyse the provided TwitterSpam data set. Table 1 shows the features description of the dataset.
 
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385694-e6d87100-6414-11eb-952e-fcaf5b3d09c4.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385694-e6d87100-6414-11eb-952e-fcaf5b3d09c4.png" />
  
 
 Follow the instructions below and write and essay that covers the following tasks. R script, R screenshot, your results and explanations should be covered for each question.
@@ -18,14 +18,14 @@ Follow the instructions below and write and essay that covers the following task
 •	To load TwitterSpam dataset into R studio, TwitterSpam<-read.csv("workspace/R/TwitterSpam/TwitterSpam.txt")</br>
 •	To view overall dataset on a matrix-like to see it more clearly, View(TwitterSpam)</br>
 
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385698-eb9d2500-6414-11eb-85d3-c3a4a7491124.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385699-ecce5200-6414-11eb-8e6f-40e1bb1e7ca3.png"/>
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385703-f0fa6f80-6414-11eb-888c-75df67c81c55.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385705-f2c43300-6414-11eb-8b98-44a8145b9386.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385706-f5268d00-6414-11eb-9a9e-8754fc2a059e.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385707-f8217d80-6414-11eb-9a36-0b6cf5764566.png" />
-<img width="500" height="auto"  src="https://user-images.githubusercontent.com/54985943/106385708-f8ba1400-6414-11eb-906b-2a79b0f6fa8a.png" />
-<img width="500" height="auto"  src = "https://user-images.githubusercontent.com/54985943/106385709-fa83d780-6414-11eb-9961-e5302fb9ae08.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385698-eb9d2500-6414-11eb-85d3-c3a4a7491124.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385699-ecce5200-6414-11eb-8e6f-40e1bb1e7ca3.png"/>
+<img src="https://user-images.githubusercontent.com/54985943/106385703-f0fa6f80-6414-11eb-888c-75df67c81c55.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385705-f2c43300-6414-11eb-8b98-44a8145b9386.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385706-f5268d00-6414-11eb-9a9e-8754fc2a059e.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385707-f8217d80-6414-11eb-9a36-0b6cf5764566.png" />
+<img widt src="https://user-images.githubusercontent.com/54985943/106385708-f8ba1400-6414-11eb-906b-2a79b0f6fa8a.png" />
+<img widt src = "https://user-images.githubusercontent.com/54985943/106385709-fa83d780-6414-11eb-9961-e5302fb9ae08.png" />
  
 -	Clarify on how you make the plot
 
@@ -51,12 +51,12 @@ Follow the instructions below and write and essay that covers the following task
 •	To load TwitterSpam dataset into R studio, TwitterSpam<-read.csv("workspace/R/TwitterSpam/TwitterSpam.txt")</br>
 •	To view overall dataset on a matrix-like to see it more clearly, View(TwitterSpam)</br>
 
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385714-01124f00-6415-11eb-999e-4c046415a3d5.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385715-0374a900-6415-11eb-9c60-ad1050f0db43.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385717-053e6c80-6415-11eb-95a5-55bfe09d8473.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385720-07083000-6415-11eb-85ab-64dcbf03b4c7.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385723-08d1f380-6415-11eb-8028-ee85df63efb7.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385727-0a9bb700-6415-11eb-9ca7-77f1ffeaf9b0.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385714-01124f00-6415-11eb-999e-4c046415a3d5.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385715-0374a900-6415-11eb-9c60-ad1050f0db43.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385717-053e6c80-6415-11eb-95a5-55bfe09d8473.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385720-07083000-6415-11eb-85ab-64dcbf03b4c7.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385723-08d1f380-6415-11eb-8028-ee85df63efb7.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385727-0a9bb700-6415-11eb-9ca7-77f1ffeaf9b0.png" />
 
  
 -	Clarify on how you make the plot
@@ -82,10 +82,10 @@ Follow the instructions below and write and essay that covers the following task
 <h2>3. Compared with the result from task 1 and task 2, for the 'no_follower' and 'no_following' columns, which one is more valuable for detecting Twitter spam? Why?</h2>
 
 Task1. No_follower	</br>	
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385706-f5268d00-6414-11eb-9a9e-8754fc2a059e.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385706-f5268d00-6414-11eb-9a9e-8754fc2a059e.png" />
 </br>
 Task2. No_following </br>
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385717-053e6c80-6415-11eb-95a5-55bfe09d8473.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385717-053e6c80-6415-11eb-95a5-55bfe09d8473.png" />
 refer to task2
   
 
@@ -103,9 +103,9 @@ As a result, task1 is clearly more valuable for detecting Twitter spam as task 1
 •	x = no_tweets, y = no_follower.</br>
 •	geom_point() is used for regular unjittered points.</br>
 
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385772-48004480-6415-11eb-86c5-1327920d762b.png" />
-  <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385775-49ca0800-6415-11eb-9541-525a21d98c4f.png" />
-   <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385778-4b93cb80-6415-11eb-875b-6ba70988c5d2.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385772-48004480-6415-11eb-86c5-1327920d762b.png" />
+  <img src="https://user-images.githubusercontent.com/54985943/106385775-49ca0800-6415-11eb-9541-525a21d98c4f.png" />
+   <img src="https://user-images.githubusercontent.com/54985943/106385778-4b93cb80-6415-11eb-875b-6ba70988c5d2.png" />
 
  
 -	Explain the relationship between the number of posted tweets and the number of followers you observe from the scatterplot.
@@ -127,9 +127,9 @@ As a result, task1 is clearly more valuable for detecting Twitter spam as task 1
 •	I simply add: geom_smooth( method = 'lm' , formula = y ~(x)) to make the regression line to the scatterplot.</br>
 •	geom is the geometric object to use display the data</br>
 •	formula is used in smoothing function.</br>
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385783-50f11600-6415-11eb-999f-82d23e62ecac.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385785-53ec0680-6415-11eb-89c9-1eb932c20e89.png" />
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385789-56e6f700-6415-11eb-9c0e-d30fa1fc0988.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385783-50f11600-6415-11eb-999f-82d23e62ecac.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385785-53ec0680-6415-11eb-89c9-1eb932c20e89.png" />
+<img src="https://user-images.githubusercontent.com/54985943/106385789-56e6f700-6415-11eb-9c0e-d30fa1fc0988.png" />
 
  
 -	Compared with scatterplot only, what are the advantages of adding a regression line?
@@ -147,10 +147,10 @@ Compared with scatterplot only, with added Regression line to the Scatterplot I 
 •	Theme_bw() function is used to change the background colour to white.</br>
 •	I found out that more than 2000 number of account_age has the most number of no follower. And the more number of account_age have, the more no follower there is.
  </br>
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385800-623a2280-6415-11eb-90a5-dd58a7b6d199.png" />
- <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385804-65cda980-6415-11eb-9f76-83d4fb107fe8.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385800-623a2280-6415-11eb-90a5-dd58a7b6d199.png" />
+ <img src="https://user-images.githubusercontent.com/54985943/106385804-65cda980-6415-11eb-9f76-83d4fb107fe8.png" />
 <h2>Conclusion</h2>
-  <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/106385807-6bc38a80-6415-11eb-8cfc-dd3befeb0951.png" />
+  <img src="https://user-images.githubusercontent.com/54985943/106385807-6bc38a80-6415-11eb-8cfc-dd3befeb0951.png" />
 
 In conclusion, I investigated Twitter Spam dataset using R studio. I learned how to load the dataset into R studio, to use ggplot with appropriate cases as to visualize dataset on graph, comparing each dataset, and I experienced with regression line and scatterplot on R studio.</br> Also, I achieved some other characteristics, points of interest, or initial patterns I find from this Twitter Spam dataset and implemented it on my own with demonstration.</br>
 
